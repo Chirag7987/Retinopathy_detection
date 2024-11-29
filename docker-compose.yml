@@ -1,0 +1,10 @@
+version: '3'
+services:
+  app:
+    build: .
+    ports:
+      - "5000:5000"  # Replace with your application's port
+    volumes:
+      - .:/usr/src/app  # Sync local files with the container
+    environment:
+      - ENV_VAR_NAME=example_value  # Add environment variables if needed

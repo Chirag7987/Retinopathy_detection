@@ -1,0 +1,11 @@
+image_path,label
+data/10_left.jpeg,0
+data/10_right.jpeg,0
+data/13_left.jpeg,1
+data/13_right.jpeg,1
+data/15_left.jpeg,0
+data/15_right.jpeg,0
+data/16_left.jpeg,1
+data/16_right.jpeg,1
+data/17_left.jpeg,0
+data/17_right.jpeg,0
